@@ -52,6 +52,7 @@ Per a contactar amb mi, ho pots fer a través dels enllaços facilitats al meu w
   - Symfony (PHP)
   - Vue (JS)
   - React (JS)
+  - Next (JS)
   - React Native (JS)
   - Express (JS)
   - Puppeteer (JS)

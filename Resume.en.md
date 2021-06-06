@@ -52,6 +52,7 @@ You can contact me using the means given in my website.
   - Symfony (PHP)
   - Vue (JS)
   - React (JS)
+  - Next (JS)
   - React Native (JS)
   - Express (JS)
   - Puppeteer (JS)
