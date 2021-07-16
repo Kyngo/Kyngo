@@ -29,6 +29,7 @@ I usually keep my projects in private repositories, but some of my public projec
 
 - [OEM COnfigurator](https://github.com/Kyngo/OEMConfigurator) - A small tool to help you edit the Windows OEM information (developed in C#).
 - [What I Am Playing](https://github.com/Kyngo/WhatIAmPlaying) - A widget that allows you to show in an image-based format what you're listening to on Spotify (developed in Node.js).
+- [My IP Address](https://github.com/Kyngo/MyIPAddress) - An iOS app that tells you your IP address and a few more details (developed in Swift).
 
 ## My job 🏢
 
