@@ -47,7 +47,7 @@ Read my resume here:
 Some of my skills include (and are not limited to):
 
 - **Major tasks**: Systems Administrator, Backend & Frontend Developer, Security Consultant.
-- **Programming languages**: PHP, JavaScript, Node.js, Python, Java, C#, C, C++, Bash, HTML/CSS, LaTeX.
+- **Programming languages**: PHP, JavaScript, Node.js, Python, Java, C#, C, Swift, Bash, HTML/CSS, LaTeX.
 - **Frameworks**: Sass, Symfony, Express, React, React Native, Laravel, Spring, .NET, Bootstrap.
 - **CMS**: Joomla, WordPress, Drupal, Ghost, MediaWiki.
 - **Server**: Git, Apache, Nginx, HAProxy, MySQL, MariaDB, PostgreSQL, MongoDB, Docker, CUPS, \*ftpd, IceCast.
