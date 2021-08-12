@@ -2,7 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/kyngonet?label=Follow%20me&style=social)
 
-- 👽 Who I am: A 25-year-old human being with beard. Sometimes too much beard.
+- 👽 Who I am: A 26-year-old human being with beard. Sometimes too much beard.
 - 💻 What I am: Web, Mobile & Backend Developer / Systems Architect / Dog lover.
 - 🌍 Where I am: Barcelona, Spain.
 - 🤔 What I do: Code. Systems and Networks. Security. Coffee.
