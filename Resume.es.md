@@ -32,7 +32,7 @@ Para contactar conmigo, puedes hacerlo usando los medios facilitados en mi web.
   - Desarrollo Backend
   - Análisis de datos
 
-- Offing Web Solutions (des del 2021): Programador Senior
+- Offing Web Solutions (des del 2021): Programador Full Stack Senior
   - Administración de Sistemas y Redes
   - Desarrollo Frontend
   - Desarrollo Backend
@@ -45,9 +45,6 @@ Para contactar conmigo, puedes hacerlo usando los medios facilitados en mi web.
   - HTML / CSS / JavaScript
   - Python
   - C#
-  - Java
-  - Kotlin
-  - C
 - Frameworks:
   - Symfony (PHP)
   - Vue (JS)
@@ -63,7 +60,6 @@ Para contactar conmigo, puedes hacerlo usando los medios facilitados en mi web.
   - vsftpd / proftpd / pureftpd
   - Servidores DHCP
   - Squid
-  - OpenStack
   - ROCKS
   - MySQL / MariaDB
   - MongoDB
@@ -108,4 +104,4 @@ Para contactar conmigo, puedes hacerlo usando los medios facilitados en mi web.
 
 - Una vez compilé una distribución Linux des de cero por el mero placer de ello
 - Además de mi experiencia profesional mencionada anteriormente, he ayudado a otras empresas a mejorar sus infrastructuras usando Amazon Web Services dando consejos y explicando cómo hacer cada cosa
-- Empecé a programar con once años, cuando me regalaron mi primer ordenador
+- Empecé a programar con doce años, cuando me regalaron mi primer ordenador

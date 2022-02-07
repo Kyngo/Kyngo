@@ -32,7 +32,7 @@ You can contact me using the means given in my website.
   - Backend Development
   - Data Analysis
 
-- Offing Web Solutions (since 2021) : Senior Developer
+- Offing Web Solutions (since 2021) : Senior Full Stack Developer
   - SysAdmin
   - Frontend Development
   - Backend Development
@@ -45,9 +45,6 @@ You can contact me using the means given in my website.
   - HTML / CSS / JavaScript
   - Python
   - C#
-  - Java
-  - Kotlin
-  - C
 - Frameworks:
   - Symfony (PHP)
   - Vue (JS)
@@ -63,7 +60,6 @@ You can contact me using the means given in my website.
   - vsftpd / proftpd / pureftpd
   - Servidores DHCP
   - Squid
-  - OpenStack
   - ROCKS
   - MySQL / MariaDB
   - MongoDB
@@ -108,4 +104,4 @@ You can contact me using the means given in my website.
 
 - I once built a Linux distro from scratch, because I felt like doing that would be cool
 - Besides my aforementioned professional experience, I helped other businesses to improve their infrastructures with Amazon Web Services, and also giving advice on how to do each thing
-- I started coding when I was given my first computer at age 11
+- I started coding when I was given my first computer at age 12

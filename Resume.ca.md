@@ -32,7 +32,7 @@ Per a contactar amb mi, ho pots fer a través dels enllaços facilitats al meu w
   - Desenvolupament Backend
   - Anàlisi de dades
 
-- Ofing Web Solutions (des del 2021) : Desenvolupador Senior
+- Ofing Web Solutions (des del 2021) : Desenvolupador Full Stack Senior
   - Administració de Sistemes i Xarxes
   - Desenvolupament Frontend
   - Desenvolupament Backend
@@ -45,9 +45,6 @@ Per a contactar amb mi, ho pots fer a través dels enllaços facilitats al meu w
   - HTML / CSS / JavaScript
   - Python
   - C#
-  - Java
-  - Kotlin
-  - C
 - Frameworks:
   - Symfony (PHP)
   - Vue (JS)
@@ -63,7 +60,6 @@ Per a contactar amb mi, ho pots fer a través dels enllaços facilitats al meu w
   - vsftpd / proftpd / pureftpd
   - Servidores DHCP
   - Squid
-  - OpenStack
   - ROCKS
   - MySQL / MariaDB
   - MongoDB
@@ -108,4 +104,4 @@ Per a contactar amb mi, ho pots fer a través dels enllaços facilitats al meu w
 
 - Un cop vaig compilar una distribució Linux des de zero pel simple plaer de fer-ho.
 - A més de la meva experiència professional mencionada prèviament, he ajudat a altres empreses a millorar la seva infraestructura mitjançant Amazon Web Services donant consells i explicant com fer servir cada eina.
-- Vaig començar a programar amb onze anys, quan em van regalar el meu primer ordinador.
+- Vaig començar a programar amb dotze anys, quan em van regalar el meu primer ordinador.
