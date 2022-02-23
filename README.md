@@ -35,7 +35,7 @@ I usually keep my projects in private repositories, but some of my public projec
 
 ## Resume 📜
 
-Read my resume here: [Spanish](https://github.com/Kyngo/Kyngo/blob/master/Resume.es.md) / [Catalan](https://github.com/Kyngo/Kyngo/blob/master/Resume.ca.md) / [English](https://github.com/Kyngo/Kyngo/blob/master/Resume.en.md)
+Read my resume here: [Resume (LaTeX)](https://github.com/Kyngo/Resume)
 
 ## TL;DR 👀
 
@@ -49,7 +49,6 @@ Some of my skills include (and are not limited to):
 - **OS**: macOS, Windows (Server and Desktop), Linux (Server and Desktop), \*BSD.
 - **AWS**: EC2, Lambda, Cloudfront, CodeBuild, CodePipeline, IAM, VPC, S3, API Gateway, Elastic Beanstalk, Elastic Load Balancer, Systems Manager.
 - **Interactivity**: Alexa Skills, Telegram Bots, Slack Bots, Discord Bots, i18n, multitenant products.
-- **Project management**: Agile, Jira, team coordination and management, Code Review, QA, conflict resolution.
 
 ## Contact ✉️
 
