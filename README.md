@@ -35,7 +35,7 @@ I usually keep my projects in private repositories, but some of my public projec
 
 ## Resume 📜
 
-Read my resume here: [Resume (LaTeX)](https://github.com/Kyngo/Resume)
+Read my resume here: [Resume (LaTeX)](https://github.com/Kyngo/Resume/releases/latest)
 
 ## TL;DR 👀
 
