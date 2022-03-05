@@ -6,49 +6,15 @@
 - 💻 What I am: Web, Mobile & Backend Developer / Systems Architect / Dog lover.
 - 🌍 Where I am: Barcelona, Spain.
 - 🤔 What I do: Code. Systems and Networks. Security. Coffee.
-- 🏢 Where I work: [Offing Web Solutions](https://offing.es), as a Senior Full Stack Developer and SysAdmin.
+- 🏢 Where I work: [Omnios](https://omnios.ai), as a Senior Full Stack Developer.
 
-## Brief introduction 🙋🏻‍♂️
+More info about me [in my resume](https://github.com/Kyngo/Resume/releases/latest)
 
-I am a person who loves doing new stuff and learning, I can't stop researching and practising what I learn, or even challenging myself to do things that I might fear. I can work both alone and as part of a team, and I can even lead a group of developers without a problem. I can also adapt to different technologies and workflows with ease. I am a little bit socially awkward, though.
-
-I also like dogs. A lot.
-
-And driving (*not to be confused with speeding*). It really helps me relax.
-
-## What I'm currently listening to 🎶
+## Currently playing on my Spotify account 🎶
 
 [![Spotify](http://prometheus.kyngo.net:38150/play?v=1)](https://open.spotify.com/user/arno-kun)
 
 What I Am Playing: [source code](https://github.com/Kyngo/WhatIAmPlaying)
-
-(yes, this is really what I was listening when you entered this page).
-
-## My work 🚀
-
-I usually keep my projects in private repositories, but some of my public projects are the following:
-
-- [OEM COnfigurator](https://github.com/Kyngo/OEMConfigurator) - A small tool to help you edit the Windows OEM information (developed in C#).
-- [What I Am Playing](https://github.com/Kyngo/WhatIAmPlaying) - A widget that allows you to show in an image-based format what you're listening to on Spotify (developed in TypeScript).
-- [My IP Address](https://github.com/Kyngo/MyIPAddress) - An iOS app that tells you your IP address and a few more details (developed in Swift).
-- [Resume](https://github.com/Kyngo/Resume) - The resume I use in my job interviews (developed in LaTeX).
-
-## Resume 📜
-
-Read my resume here: [Resume (LaTeX)](https://github.com/Kyngo/Resume/releases/latest)
-
-## TL;DR 👀
-
-Some of my skills include (and are not limited to):
-
-- **Major tasks**: Systems Administrator, Backend & Frontend Developer, Security Consultant.
-- **Programming languages**: PHP, JavaScript, Node.js, Python, C#, Swift, Bash, HTML/CSS, LaTeX.
-- **Frameworks**: Sass, Symfony, Express, React, React Native, Laravel, .NET, Bootstrap.
-- **CMS**: Joomla, WordPress, Drupal, Ghost, MediaWiki.
-- **Server**: Git, Apache, Nginx, HAProxy, MySQL, MariaDB, PostgreSQL, MongoDB, Docker, CUPS, FTP servers.
-- **OS**: macOS, Windows (Server and Desktop), Linux (Server and Desktop), \*BSD.
-- **AWS**: EC2, Lambda, Cloudfront, CodeBuild, CodePipeline, IAM, VPC, S3, API Gateway, Elastic Beanstalk, Elastic Load Balancer, Systems Manager.
-- **Interactivity**: Alexa Skills, Telegram Bots, Slack Bots, Discord Bots, i18n, multitenant products.
 
 ## Contact ✉️
 
