@@ -16,6 +16,7 @@ More info about me [in my resume](https://github.com/Kyngo/Resume/releases/lates
 
 ## ✉️ Contact
 
+- **Website**: [Arnau Martín](https://arnaumart.in)
 - **Telegram**: [@Kyngo](https://t.me/kyngo)
 - **Twitter**: [@KyngoNet](https://twitter.com/kyngonet)
 - **LinkedIn**: [Arnau Martin](https://www.linkedin.com/in/arnaumartin/)
