@@ -4,7 +4,7 @@
 - 💻 What I am: Web, Mobile & Backend Developer / Systems Architect / Dog lover.
 - 🌍 Where I am: Barcelona, Spain.
 - 🤔 What I do: Code. Systems and Networks. Security. Coffee.
-- 🏢 Where I work: [Omnios](https://omnios.ai), as a Senior Full Stack Developer.
+- 🏢 Where I work: [TUI](https://tui.com), as a Platform Engineer.
 
 More info about me [in my resume](https://github.com/Kyngo/Resume/releases/latest)
 
