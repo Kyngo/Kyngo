@@ -10,7 +10,7 @@ More info about me [in my resume](https://github.com/Kyngo/Resume/releases/lates
 
 ## 🎶 Currently listening
 
-[![Spotify](http://prometheus.kyngo.net:38150/play?v=1)](https://open.spotify.com/user/arno-kun)
+[![Spotify](https://prometheus.kyngo.net/play?v=1)](https://open.spotify.com/user/arno-kun)
 
 [Here](https://github.com/Kyngo/WhatIAmPlaying) is how you can see this
 
