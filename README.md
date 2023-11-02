@@ -14,6 +14,12 @@ More info about me [in my resume](https://github.com/Kyngo/Resume/releases/lates
 
 [Here](https://github.com/Kyngo/WhatIAmPlaying) is how you can see this
 
+## 🏅 Certifications
+
+<a href="https://www.credly.com/badges/ccca487d-0b94-4c05-b928-d82aede0ae96/public_url">
+  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="200" height="200" />
+</a>
+
 ## 📚 Skills
 
 <div align="center" style="border:1px solid #eeeeee;border-radius:6px;">
