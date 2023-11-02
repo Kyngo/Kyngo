@@ -16,8 +16,8 @@ More info about me [in my resume](https://github.com/Kyngo/Resume/releases/lates
 
 ## 🏅 Certifications
 
-<a href="https://www.credly.com/badges/ccca487d-0b94-4c05-b928-d82aede0ae96/public_url">
-  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="200" height="200" />
+<a href="https://www.credly.com/badges/ccca487d-0b94-4c05-b928-d82aede0ae96/public_url" target="_blank">
+  <img alt="SAA-C03 Badge" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="200" height="200" />
 </a>
 
 ## 📚 Skills
