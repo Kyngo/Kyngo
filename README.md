@@ -8,12 +8,6 @@
 
 More info about me [in my resume](https://github.com/Kyngo/Resume/releases/latest)
 
-## 🎶 Currently listening
-
-[![Spotify](https://prometheus.kyngo.net/play?v=1)](https://open.spotify.com/user/arno-kun)
-
-[Here](https://github.com/Kyngo/WhatIAmPlaying) is how you can see this
-
 ## 🏅 Certifications
 
 <a href="https://www.credly.com/badges/ccca487d-0b94-4c05-b928-d82aede0ae96/public_url" target="_blank">
