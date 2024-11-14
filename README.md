@@ -1,7 +1,7 @@
 # 👋 Hello! Hola!
 
-- 👽 Who I am: A 28 years old human being with beard. Sometimes too much beard.
-- 💻 What I am: Web, Mobile & Backend Developer / Systems Architect / Dog lover.
+- 👽 Who I am: A human being with beard. Sometimes too much beard.
+- 💻 What I am: Web & Backend Developer / Systems Architect / Security Engineer / Dog lover.
 - 🌍 Where I am: Barcelona, Spain.
 - 🤔 What I do: Code. Systems and Networks. Security. Coffee.
 - 🏢 Where I work: [TUI Group]([https://tui.com](https://www.tuigroup.com/en-en)), as a Platform Engineer.
@@ -20,11 +20,11 @@ More info about me [in my resume](https://github.com/Kyngo/Resume/releases/lates
   <img alt="AWS" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img alt="Backstage.io" width="50" height="50" src="https://assets.website-files.com/6194c620b350c4056027fac7/61f935c830906d7187956a15_Group%2037750.png" />
   <img alt="Bash" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bash/bash-original.svg" />
-  <img alt="Bootstrap" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bootstrap/bootstrap-original.svg" />
   <img alt="Docker" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/docker/docker-original.svg" />
   <img alt="Express.js" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/express/express-original-wordmark.svg" />
   <img alt="Git" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original.svg" />
   <img alt="GitLab" width="50" height="50" src="https://github.com/devicons/devicon/raw/v2.15.1/icons/gitlab/gitlab-original.svg" />
+  <img alt="Java" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" />
   <img alt="JavaScript" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-plain.svg" />
   <img alt="Kubernetes" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/kubernetes/kubernetes-plain.svg" />
   <img alt="Laravel" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/laravel/laravel-plain.svg" />
