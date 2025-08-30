@@ -4,7 +4,7 @@
 - 💻 What I am: Web & Backend Developer / Systems Architect / Security Engineer / Dog lover.
 - 🌍 Where I am: Barcelona, Spain.
 - 🤔 What I do: Code. Systems and Networks. Security. Coffee.
-- 🏢 Where I work: [TUI Group]([https://tui.com](https://www.tuigroup.com/en-en)), as a Platform Engineer.
+- 🏢 Where I work: [TUI Group](https://www.tuigroup.com/en-en), as a Platform Engineer.
 
 More info about me [in my resume](https://github.com/Kyngo/Resume/releases/latest)
 
@@ -50,6 +50,6 @@ More info about me [in my resume](https://github.com/Kyngo/Resume/releases/lates
 
 ## ✉️ Contact
 
-- **Website**: [Arnau Martín](https://arnaumart.in)
+- **Website**: [Arnau Martin](https://arnaumart.in)
 - **Telegram**: [@Kyngo](https://t.me/kyngo)
 - **LinkedIn**: [Arnau Martin](https://www.linkedin.com/in/arnaumartin/)
